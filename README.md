@@ -1,4 +1,4 @@
-# Telegram OCR Bot
+# Autobook AI
 
 A Telegram bot that extracts text from PDFs and images using OCR (Optical Character Recognition) and saves the results to Google Sheets.
 
